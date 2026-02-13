@@ -28,10 +28,10 @@ const MYSTERIES = [
 
 // Personal photos for the polaroid gallery
 const PHOTOS = [
-  { src: "https://file-service-alpha.vercel.app/6300435/1000/1740286829-1740286829705-75791771-460b-46a4-9e90-2795c6b441bb.png", caption: "School Days & Sweet Smiles" },
-  { src: "https://file-service-alpha.vercel.app/6300435/1000/1740286829-1740286829707-88229f3d-51b8-4c37-a2f0-91a7428ac052.png", caption: "Low Key Loves You" },
-  { src: "https://file-service-alpha.vercel.app/6300435/1000/1740286829-1740286829707-1e8c750b-426b-4e4b-9d41-38374d9e96e9.png", caption: "Close to my Heart" },
-  { src: "https://file-service-alpha.vercel.app/6300435/1000/1740286829-1740286829707-422f25b2-3286-444f-b676-e13d9697193a.png", caption: "Adventures Together" }
+  { src: "/vallentine/images/p1.png", caption: "My kucchu and me" },
+  { src: "/vallentine/images/p2.png", caption: "Us frfr" },
+  { src: "/vallentine/images/p3.png", caption: "SO CUTE-" },
+  { src: "/vallentine/images/p4.png", caption: "HEHEHEHEHE" }
 ];
 
 // Safe storage accessor
