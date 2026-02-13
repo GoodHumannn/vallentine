@@ -1,0 +1,8 @@
+{
+  "name": "Valentine Quest — For Devanshi",
+  "description": "A progressive, interactive Valentine's journey with mini-games, love notes, and AI-powered memories.",
+  "requestFramePermissions": [
+    "camera",
+    "microphone"
+  ]
+}
